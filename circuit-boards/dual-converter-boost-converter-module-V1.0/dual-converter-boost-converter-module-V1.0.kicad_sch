@@ -5087,7 +5087,7 @@
 			(uuid "3905c344-68c1-44b6-a9ba-e6b94f273851")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR015")
 					(unit 1)
@@ -5198,7 +5198,7 @@
 			(uuid "cd7ca7c1-2eff-4370-b6b4-3b3708f4c469")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP15")
 					(unit 1)
@@ -5420,7 +5420,7 @@
 			(uuid "147ff506-7fe7-42c4-b6b1-4add9ce594f6")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP9")
 					(unit 1)
@@ -5558,7 +5558,7 @@
 			(uuid "e48bfc23-a39c-4c50-8ad6-550c0eecdb9b")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C6")
 					(unit 1)
@@ -5669,7 +5669,7 @@
 			(uuid "ff81c5c5-04be-44da-8545-84d4ab932319")
 		)
 		(instances
-			(project "dual-converter-power-management-module"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "H2")
 					(unit 1)
@@ -5734,7 +5734,7 @@
 			(uuid "ef9c4afc-7b39-415a-a430-a18db24fd553")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR017")
 					(unit 1)
@@ -5845,7 +5845,7 @@
 			(uuid "696c4d9a-f5ca-4829-bfa2-a8b0e2688752")
 		)
 		(instances
-			(project "dual-converter-power-management-module"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "H1")
 					(unit 1)
@@ -5992,7 +5992,7 @@
 			(uuid "58ea1790-49df-452a-b5c0-627d52301f9b")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C16")
 					(unit 1)
@@ -6130,7 +6130,7 @@
 			(uuid "5af843c5-b0ad-4db6-a022-fb9c945643d5")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C7")
 					(unit 1)
@@ -6268,7 +6268,7 @@
 			(uuid "033e91e4-a944-4403-8ea8-2c806fc159f5")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C1")
 					(unit 1)
@@ -6396,7 +6396,7 @@
 			(uuid "3ae7c10b-b9a5-4a11-8976-4d4d319967fa")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "D1")
 					(unit 1)
@@ -6507,7 +6507,7 @@
 			(uuid "e48d45e1-17d4-4b14-9e30-0d6e58d333f1")
 		)
 		(instances
-			(project "dual-converter-power-management-module"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "H4")
 					(unit 1)
@@ -6706,7 +6706,7 @@
 			(uuid "65fb6a00-b6d6-469a-b3d7-1053d1245761")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR012")
 					(unit 1)
@@ -7162,7 +7162,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C375525"
+		(property "LCSC Part #" "C5121023"
 			(at 247.65 139.7 0)
 			(effects
 				(font
@@ -7178,7 +7178,7 @@
 			(uuid "03d97f6a-ad86-4488-91c2-2a10b09dfcaa")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "R9")
 					(unit 1)
@@ -7243,7 +7243,7 @@
 			(uuid "e8d50b2d-a520-4495-a92c-0b5a91e04b6e")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR016")
 					(unit 1)
@@ -7381,7 +7381,7 @@
 			(uuid "6f4e5622-dbb0-4df0-863b-310fb79fb9f4")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C3")
 					(unit 1)
@@ -7492,7 +7492,7 @@
 			(uuid "43ef82c1-46a0-4d58-8925-ece4049c028d")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP12")
 					(unit 1)
@@ -7870,7 +7870,7 @@
 			(uuid "7ca5034a-96b9-4067-b210-c084d950acb1")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C4")
 					(unit 1)
@@ -8138,7 +8138,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "NULL"
+		(property "LCSC Part #" "C1329591"
 			(at 234.95 31.75 0)
 			(effects
 				(font
@@ -8154,7 +8154,7 @@
 			(uuid "8af1894c-850d-4ebe-999e-e25755a7f81d")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "L1")
 					(unit 1)
@@ -8293,7 +8293,7 @@
 			(uuid "959e7706-144e-450e-b1b0-f6bf0be008e0")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C11")
 					(unit 1)
@@ -8487,7 +8487,7 @@
 			(uuid "09f4fed5-51fd-453f-9e28-ff9ec7b64f48")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR05")
 					(unit 1)
@@ -8745,7 +8745,7 @@
 			(uuid "63565bfa-518e-467d-8328-59bfaa25e2ac")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C15")
 					(unit 1)
@@ -8994,7 +8994,7 @@
 			(uuid "35ae7548-2d05-45d2-8300-d559a9d46a0c")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C10")
 					(unit 1)
@@ -9198,7 +9198,7 @@
 			(uuid "58d8ac38-e627-4d8f-98d9-f900106833d9")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "R6")
 					(unit 1)
@@ -9263,7 +9263,7 @@
 			(uuid "e8c2bdb3-2b04-4123-86b4-f071bec92b6b")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR08")
 					(unit 1)
@@ -9328,7 +9328,7 @@
 			(uuid "e79a0e32-26c7-4897-b4a4-b935efea9982")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR011")
 					(unit 1)
@@ -9532,7 +9532,7 @@
 			(uuid "3e69b9f6-4a48-4f45-9b67-1b33517ad937")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C13")
 					(unit 1)
@@ -9678,7 +9678,7 @@
 			(uuid "6e9711eb-bc6d-44e5-b616-c0274d09be5c")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C14")
 					(unit 1)
@@ -9881,7 +9881,7 @@
 			(uuid "95554150-80b4-46af-adb6-59b4997f1d80")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C2")
 					(unit 1)
@@ -9946,7 +9946,7 @@
 			(uuid "a652ba3e-988e-46b5-922d-41a71d44c6a6")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR06")
 					(unit 1)
@@ -10203,7 +10203,7 @@
 			(uuid "58065ccd-dce1-4697-9132-2b9d93f0b9fc")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "U3")
 					(unit 1)
@@ -10364,7 +10364,7 @@
 			(uuid "87817076-1a22-44a9-bd90-ce3551b74891")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "U2")
 					(unit 1)
@@ -10475,7 +10475,7 @@
 			(uuid "2078288f-db13-490f-9952-da6e63885dfa")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP2")
 					(unit 1)
@@ -10540,7 +10540,7 @@
 			(uuid "b128ed5b-46d1-45fb-a0d4-90caf6ce2a95")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR014")
 					(unit 1)
@@ -10605,7 +10605,7 @@
 			(uuid "8f20d8b6-4741-4690-aea5-dd9ae6acf8ed")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR013")
 					(unit 1)
@@ -10670,7 +10670,7 @@
 			(uuid "0d5ef198-fbc4-456b-9db9-77dd182be3f0")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR02")
 					(unit 1)
@@ -10873,7 +10873,7 @@
 			(uuid "e0a593b4-0600-4e14-aaba-d5563fe9dc09")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C9")
 					(unit 1)
@@ -10984,7 +10984,7 @@
 			(uuid "07e6b329-36b0-42ee-987c-4975dc507b13")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP11")
 					(unit 1)
@@ -11095,7 +11095,7 @@
 			(uuid "40b4eb4d-a4ad-4eb0-b464-1a616be791b4")
 		)
 		(instances
-			(project "dual-converter-power-management-module"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "H3")
 					(unit 1)
@@ -11233,7 +11233,7 @@
 			(uuid "12d1e69d-9418-470c-8bbc-e2de4a27f9f4")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C8")
 					(unit 1)
@@ -11298,7 +11298,7 @@
 			(uuid "989c08b8-b88d-4b0b-9c64-8f9c3345a9e5")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR010")
 					(unit 1)
@@ -11585,7 +11585,7 @@
 			(uuid "9a661ec4-06a0-4a71-8123-dd510d6d46cb")
 		)
 		(instances
-			(project "dual-converter-power-management-module"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "#PWR01")
 					(unit 1)
@@ -11723,7 +11723,7 @@
 			(uuid "82a88be7-17c2-482f-88da-093b560fc325")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "C12")
 					(unit 1)
@@ -11834,7 +11834,7 @@
 			(uuid "f030d4eb-512d-4831-bcee-c7b9faf65ae4")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP1")
 					(unit 1)
@@ -12083,7 +12083,7 @@
 			(uuid "eea10302-d06e-44ef-b87b-90efcfd9628e")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP16")
 					(unit 1)
@@ -12194,7 +12194,7 @@
 			(uuid "fcf122fc-b93f-4d8f-b5cf-4e08e21dfbc0")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "TP10")
 					(unit 1)
@@ -12617,7 +12617,7 @@
 			(uuid "086c840e-c176-40f0-9f17-c8e498e3b0f9")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "R8")
 					(unit 1)
@@ -12755,7 +12755,7 @@
 			(uuid "0e7f638e-46cd-4149-b0fb-1cc390694dfd")
 		)
 		(instances
-			(project "dual-converter-boost-converter-RevCV1.0"
+			(project "dual-converter-boost-converter-module-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4"
 					(reference "R7")
 					(unit 1)
