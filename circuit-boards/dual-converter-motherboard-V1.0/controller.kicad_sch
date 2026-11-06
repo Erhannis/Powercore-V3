@@ -3469,7 +3469,7 @@
 			(uuid "6bdba0e7-b103-4cfd-8215-19d7f133989f")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/5946d204-5d08-4a46-9b94-ed9dc42d6525"
 					(reference "#PWR046")
 					(unit 1)
@@ -3600,7 +3600,7 @@
 			(uuid "21ba161d-1766-4cac-a5c2-f19f212cd13a")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/5946d204-5d08-4a46-9b94-ed9dc42d6525"
 					(reference "#PWR043")
 					(unit 1)
@@ -3898,7 +3898,7 @@
 			(uuid "1493e36a-ab57-4cc7-bb3e-3caf7c59a8d9")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/5946d204-5d08-4a46-9b94-ed9dc42d6525"
 					(reference "U8")
 					(unit 1)

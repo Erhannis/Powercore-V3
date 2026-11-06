@@ -6215,7 +6215,7 @@
 			(uuid "659bad34-34fd-444c-ad23-a38b726c6ed1")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C11")
 					(unit 1)
@@ -6384,7 +6384,7 @@
 			(uuid "04ee39b5-49da-4edd-85f7-713cdb76456e")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "Q1")
 					(unit 1)
@@ -6547,7 +6547,7 @@
 			(uuid "ce83f25c-c02a-443d-af6c-ed84daea7771")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R15")
 					(unit 1)
@@ -6716,7 +6716,7 @@
 			(uuid "43587fe0-89be-4d7c-abeb-552abb348e37")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D8")
 					(unit 1)
@@ -6782,7 +6782,7 @@
 			(uuid "26896156-445a-4966-b919-2d851bbb5359")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR030")
 					(unit 1)
@@ -6945,7 +6945,7 @@
 			(uuid "10acb4c7-94ea-41f9-9b7f-b37151d7c384")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R23")
 					(unit 1)
@@ -7011,7 +7011,7 @@
 			(uuid "518885ea-ef6f-46df-86f5-fa2df6686ee9")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR028")
 					(unit 1)
@@ -7174,7 +7174,7 @@
 			(uuid "8c335f47-b020-41c6-95fb-4984310d74e5")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R6")
 					(unit 1)
@@ -7410,7 +7410,7 @@
 			(uuid "8591d556-b04f-43fd-840d-e3e753a5bd69")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C7")
 					(unit 1)
@@ -7579,7 +7579,7 @@
 			(uuid "d95fcb4f-230a-4be9-ad9d-1fa812129fc3")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D4")
 					(unit 1)
@@ -7790,7 +7790,7 @@
 			(uuid "a68b1bef-274a-46fa-a0c0-b02683ed85c4")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR029")
 					(unit 1)
@@ -8130,7 +8130,7 @@
 			(uuid "b42498d5-2b2b-4a97-9d44-22de1ffa4ca6")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D3")
 					(unit 1)
@@ -8293,7 +8293,7 @@
 			(uuid "66ccb68e-a1c2-42dc-876b-97cb169529c9")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R19")
 					(unit 1)
@@ -8358,7 +8358,7 @@
 			(uuid "08ec9821-661d-46eb-8b88-90287ffce9c7")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR020")
 					(unit 1)
@@ -8423,7 +8423,7 @@
 			(uuid "7162a894-df2e-460a-9ba0-b300c0801f7c")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR034")
 					(unit 1)
@@ -8796,7 +8796,7 @@
 			(uuid "7f49e067-8cf2-4522-ac1f-3dd0f9dd697a")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR042")
 					(unit 1)
@@ -8968,7 +8968,7 @@
 			(uuid "5e44a1db-2fc6-4c1f-a6ef-b5a4c4873ddb")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C8")
 					(unit 1)
@@ -9115,6 +9115,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C865409"
+			(at 152.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be608577-da44-4477-a08d-c9c6251ef742")
 		)
@@ -9122,7 +9131,7 @@
 			(uuid "6864acff-666c-433c-996e-5be1153f8245")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R8")
 					(unit 1)
@@ -9291,7 +9300,7 @@
 			(uuid "f76da7ae-f753-44a5-96b0-664d96964129")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D2")
 					(unit 1)
@@ -9462,7 +9471,7 @@
 			(uuid "497ca8f0-e4f5-4ead-a013-9490faedebef")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C13")
 					(unit 1)
@@ -9625,7 +9634,7 @@
 			(uuid "587db1a6-079c-4f71-9f78-023871af3c92")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R26")
 					(unit 1)
@@ -9794,7 +9803,7 @@
 			(uuid "a856036e-ec0b-4c04-934e-00360b373830")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D5")
 					(unit 1)
@@ -9948,7 +9957,7 @@
 			(uuid "0ddf37e8-7681-4280-a3ae-903877d1d9b8")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R18")
 					(unit 1)
@@ -10111,7 +10120,7 @@
 			(uuid "2a8390b8-2018-4937-9de5-784b6e3a3743")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R25")
 					(unit 1)
@@ -10258,6 +10267,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C3013385"
+			(at 222.25 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0531d01-7329-4a42-afb4-6df88790dba6")
 		)
@@ -10265,7 +10283,7 @@
 			(uuid "528b4ae6-ac8e-4167-a13a-6e222295a3b7")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R9")
 					(unit 1)
@@ -10437,7 +10455,7 @@
 			(uuid "0a263f22-54bf-4acf-a28f-19ef35bcdc7d")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C9")
 					(unit 1)
@@ -10611,7 +10629,7 @@
 			(uuid "962e599c-b43a-4051-a705-45daeb0788af")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "Q3")
 					(unit 1)
@@ -10774,7 +10792,7 @@
 			(uuid "a0ca7f42-1ae3-46e3-8178-6c80dd7cab88")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R16")
 					(unit 1)
@@ -10937,7 +10955,7 @@
 			(uuid "e54bc49a-03f1-4973-a961-85f436796779")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R27")
 					(unit 1)
@@ -11100,6 +11118,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C3281371"
+			(at 238.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "406cbc24-a7a2-415d-96e1-8ca1aad8d109")
 		)
@@ -11110,7 +11137,7 @@
 			(uuid "51776bfe-8fe0-4028-a109-4ded4d675fe2")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "Q2")
 					(unit 1)
@@ -11277,7 +11304,7 @@
 			(uuid "c470efde-6d5c-4f25-abb9-507d42676339")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "U4")
 					(unit 1)
@@ -11343,7 +11370,7 @@
 			(uuid "3aeeb14b-5c53-4dab-b71c-10262c82a33d")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR027")
 					(unit 1)
@@ -11409,7 +11436,7 @@
 			(uuid "7111fcfc-6c4a-4126-8fb3-d9e1a063c266")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR041")
 					(unit 1)
@@ -11645,7 +11672,7 @@
 			(uuid "ec821668-373b-4493-a74d-93c97659c8fb")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR033")
 					(unit 1)
@@ -11814,7 +11841,7 @@
 			(uuid "cc6f428d-0a1e-4ed7-9ffd-cdf0c4f53c58")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D1")
 					(unit 1)
@@ -11879,7 +11906,7 @@
 			(uuid "cea16170-55b1-42a7-9b29-51fc327916a3")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR024")
 					(unit 1)
@@ -12026,6 +12053,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C3013385"
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d18fa81a-f0b1-48cc-876d-1ebc2d5604e6")
 		)
@@ -12033,7 +12069,7 @@
 			(uuid "16cf7163-223c-433b-a31d-1910c93c413b")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R7")
 					(unit 1)
@@ -12202,7 +12238,7 @@
 			(uuid "3d1b8e4c-b10f-49ca-b8ea-9802459051b2")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D9")
 					(unit 1)
@@ -12349,6 +12385,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C865409"
+			(at 152.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23c20831-f5b4-47e9-a148-d346d7e30c01")
 		)
@@ -12356,7 +12401,7 @@
 			(uuid "4c8f7064-fe02-428f-b69f-5759082c95ed")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R11")
 					(unit 1)
@@ -12422,7 +12467,7 @@
 			(uuid "58225f57-9cda-431f-87a9-b6d0654203b0")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR031")
 					(unit 1)
@@ -12593,7 +12638,7 @@
 			(uuid "755a73c3-e868-45e1-9229-cafe95fc43b7")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C5")
 					(unit 1)
@@ -12764,7 +12809,7 @@
 			(uuid "99d14974-10e3-4f85-8aa2-607f7dbcc303")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C10")
 					(unit 1)
@@ -12932,7 +12977,7 @@
 			(uuid "060eaa65-4602-4279-b3f4-6acf222c4f08")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "U5")
 					(unit 1)
@@ -13095,7 +13140,7 @@
 			(uuid "f54850ae-49d8-4d2a-b86c-3860fa586292")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R5")
 					(unit 1)
@@ -13262,7 +13307,7 @@
 			(uuid "cfdd9dcd-6b97-4e0c-902c-0123a4d51852")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "U6")
 					(unit 1)
@@ -13433,7 +13478,7 @@
 			(uuid "fdd19bca-7504-405d-a225-e299c47fca0a")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C4")
 					(unit 1)
@@ -13596,7 +13641,7 @@
 			(uuid "1172749e-500b-47a7-bbc8-90cfc2d43005")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R22")
 					(unit 1)
@@ -13662,7 +13707,7 @@
 			(uuid "a78e732b-cc7f-4eaf-a958-7d37ccab1953")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR040")
 					(unit 1)
@@ -13809,6 +13854,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C3013385"
+			(at 266.7 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e58e308-4036-4e7c-85ea-d5b899463f60")
 		)
@@ -13816,7 +13870,7 @@
 			(uuid "7f475d31-8c15-4494-8de9-9d2b85509f79")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R24")
 					(unit 1)
@@ -13979,7 +14033,7 @@
 			(uuid "665a897f-7121-4ba2-9ee9-bfeda32a3c9d")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R17")
 					(unit 1)
@@ -14142,7 +14196,7 @@
 			(uuid "2524aa8c-1681-4f4a-aaea-72f30cc11a3e")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R12")
 					(unit 1)
@@ -14272,7 +14326,7 @@
 			(uuid "32e0a5ba-bc6d-44d7-9caa-bbb9991eb3d0")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR036")
 					(unit 1)
@@ -14439,7 +14493,7 @@
 			(uuid "9f956ac8-ff7c-458b-b244-5b28f43ee225")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "U7")
 					(unit 1)
@@ -14506,7 +14560,7 @@
 			(uuid "eafd9e0e-b0e8-4750-aebb-41e67b3166dd")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR022")
 					(unit 1)
@@ -14667,7 +14721,7 @@
 			(uuid "717870c2-3337-4d03-9116-952a59ff311f")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "L1")
 					(unit 1)
@@ -14838,7 +14892,7 @@
 			(uuid "8790a10d-f4ef-43f4-9aba-350f6b77479d")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "C6")
 					(unit 1)
@@ -14983,7 +15037,7 @@
 			(uuid "f546243f-d7e7-4787-9690-b2dc47991a86")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "D10")
 					(unit 1)
@@ -15146,7 +15200,7 @@
 			(uuid "1f951b8c-c449-4723-8cea-0aad69fc867c")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R21")
 					(unit 1)
@@ -15212,7 +15266,7 @@
 			(uuid "a55c6404-8480-4b16-bed2-24d19f8533c8")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR026")
 					(unit 1)
@@ -15342,7 +15396,7 @@
 			(uuid "b40cf79d-a1ca-4609-bec1-7e1ea0040c0f")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR025")
 					(unit 1)
@@ -15408,7 +15462,7 @@
 			(uuid "5621771a-1de0-42ca-9fa1-9ea9333f9c22")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR032")
 					(unit 1)
@@ -15473,7 +15527,7 @@
 			(uuid "080b7073-80ba-4e75-9a2f-031a4f5251b2")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR035")
 					(unit 1)
@@ -15636,7 +15690,7 @@
 			(uuid "bc44d8fc-5ee0-48f1-9862-d89756067f3f")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R14")
 					(unit 1)
@@ -15783,6 +15837,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C865409"
+			(at 152.4 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "622dfab6-2d18-40a0-bef3-8f0cfc38c34d")
 		)
@@ -15790,7 +15853,7 @@
 			(uuid "78d93508-06fc-4219-857c-4e0b6da1b608")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R10")
 					(unit 1)
@@ -15953,7 +16016,7 @@
 			(uuid "512e1792-2d05-4b23-8150-781cb21d323d")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "R20")
 					(unit 1)
@@ -16084,7 +16147,7 @@
 			(uuid "a6316f1f-b84d-4ebf-bc18-ca6455e16e09")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR021")
 					(unit 1)
@@ -16150,7 +16213,7 @@
 			(uuid "dc2ad911-3d0c-4915-ac63-778edda23f34")
 		)
 		(instances
-			(project "dual-converter-motherboard-RevCV1.0"
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR023")
 					(unit 1)
@@ -16261,7 +16324,7 @@
 			(uuid "155cd84b-697d-43d5-8da7-f6b32d206c32")
 		)
 		(instances
-			(project ""
+			(project "dual-converter-motherboard-V1.0"
 				(path "/230efb11-d2b5-477f-8cbb-0bfc1a8259a4/b488c6fe-120e-4f0b-9ffd-4b5250d107e9"
 					(reference "#PWR039")
 					(unit 1)
