@@ -10496,7 +10496,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22875,7 +22875,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30048,7 +30048,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37990,7 +37990,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39057,7 +39057,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39763,7 +39763,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42059,7 +42059,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45073,7 +45073,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R21"
-			(at 2.4 -0.5 180)
+			(at 2.4 -0.5 0)
 			(layer "B.SilkS")
 			(uuid "70ae06cb-b85d-4257-a30d-be903c476f5b")
 			(effects
@@ -45222,7 +45222,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C20161635"
+		(property "LCSC Part #" "C95204"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
