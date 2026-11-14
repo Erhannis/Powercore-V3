@@ -357,7 +357,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -504,7 +504,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1177,7 +1177,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1324,7 +1324,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1699,7 +1699,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1846,7 +1846,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2565,7 +2565,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3667,7 +3667,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5378,7 +5378,7 @@
 		(pad "1" thru_hole circle
 			(at -16 -23)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 37 "+48V")
@@ -5389,7 +5389,7 @@
 		(pad "1" thru_hole circle
 			(at -16 -16)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 37 "+48V")
@@ -5409,7 +5409,7 @@
 		(pad "2" thru_hole circle
 			(at -16 16)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -5420,7 +5420,7 @@
 		(pad "2" thru_hole circle
 			(at -16 23)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -5431,7 +5431,7 @@
 		(pad "3" thru_hole circle
 			(at 16 16)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -5442,7 +5442,7 @@
 		(pad "3" thru_hole circle
 			(at 16 23)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -5462,7 +5462,7 @@
 		(pad "4" thru_hole circle
 			(at 16 -23)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 3 "/48VIN")
@@ -5473,7 +5473,7 @@
 		(pad "4" thru_hole circle
 			(at 16 -16)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 3 "/48VIN")
@@ -5502,7 +5502,7 @@
 		(pad "5" thru_hole circle
 			(at 7 -32)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 29 "+3.3V")
@@ -5522,7 +5522,7 @@
 		(pad "6" thru_hole circle
 			(at 4 -32)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "/PMM_ENABLE")
@@ -5542,7 +5542,7 @@
 		(pad "7" thru_hole circle
 			(at 1 -32)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 7 "/PMM_DIAG_EN")
@@ -5562,7 +5562,7 @@
 		(pad "8" thru_hole circle
 			(at -2 -32)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 5 "/PMM_FAULT")
@@ -5582,7 +5582,7 @@
 		(pad "9" thru_hole circle
 			(at -5 -32)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 6 "/PMM_ISENSE")
@@ -5602,7 +5602,7 @@
 		(pad "10" thru_hole circle
 			(at -8 -32)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 69 "/PMM_VSENSE")
@@ -6761,7 +6761,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7136,7 +7136,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7283,7 +7283,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8002,7 +8002,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8222,7 +8222,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8369,7 +8369,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8516,7 +8516,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -10303,7 +10303,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -11138,7 +11138,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -11195,7 +11195,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "38273f06-4917-4f9c-81a7-6cb93579b4b4")
+			(uuid "a5d07e49-9d0d-4a73-bf13-193af140c84c")
 			(effects
 				(font
 					(size 1 1)
@@ -11207,7 +11207,7 @@
 			(at 25.5 36 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "ca6c56f6-985e-4980-a7e1-d05d23ae144c")
+			(uuid "d64469d9-abae-4b24-80c6-5f344604bfa8")
 			(effects
 				(font
 					(size 1 1)
@@ -11220,7 +11220,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a67646f3-3ed6-4e95-bb30-aec858748dae")
+			(uuid "ff0af5b7-0d78-4ed7-a8b5-faa2576456b6")
 			(effects
 				(font
 					(size 1 1)
@@ -11233,7 +11233,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "58ed91a3-a005-4299-b97b-9b41ae432304")
+			(uuid "ae4985d2-3e56-42d7-9282-4a53d2fea379")
 			(effects
 				(font
 					(size 1 1)
@@ -12377,7 +12377,7 @@
 		(pad "1" thru_hole circle
 			(at -38.5 -23 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 11 "/BUCK-CONVERTER-OUTPUT")
@@ -12388,7 +12388,7 @@
 		(pad "1" thru_hole circle
 			(at -38.5 -16 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 11 "/BUCK-CONVERTER-OUTPUT")
@@ -12408,7 +12408,7 @@
 		(pad "2" thru_hole circle
 			(at -38.5 16.5 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -12419,7 +12419,7 @@
 		(pad "2" thru_hole circle
 			(at -38.5 23.5 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -12430,7 +12430,7 @@
 		(pad "3" thru_hole circle
 			(at 38.5 16 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -12441,7 +12441,7 @@
 		(pad "3" thru_hole circle
 			(at 38.5 23 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -12461,7 +12461,7 @@
 		(pad "4" thru_hole circle
 			(at 38.5 9 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 8 "/BUCK_POWER_GOOD")
@@ -12481,7 +12481,7 @@
 		(pad "5" thru_hole circle
 			(at 38.5 6 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 10 "/BUCK_ENABLE")
@@ -12501,7 +12501,7 @@
 		(pad "6" thru_hole circle
 			(at 38.5 3 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 9 "/BUCK_ADJ_PWM")
@@ -12521,7 +12521,7 @@
 		(pad "7" thru_hole circle
 			(at 38.5 0 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -12541,7 +12541,7 @@
 		(pad "8" thru_hole circle
 			(at 38.5 -3 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 29 "+3.3V")
@@ -12561,7 +12561,7 @@
 		(pad "9" thru_hole circle
 			(at 38.5 -6 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 63 "/I2C_SCL")
@@ -12581,7 +12581,7 @@
 		(pad "10" thru_hole circle
 			(at 38.5 -9 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 62 "/I2C_SDA")
@@ -12601,7 +12601,7 @@
 		(pad "11" thru_hole circle
 			(at 38.5 -23 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 37 "+48V")
@@ -12612,7 +12612,7 @@
 		(pad "11" thru_hole circle
 			(at 38.5 -16 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 37 "+48V")
@@ -13134,7 +13134,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -13281,7 +13281,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -14601,7 +14601,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -16134,7 +16134,7 @@
 		(pad "1" thru_hole circle
 			(at -34.8 -5 90)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 13 "/BOOST-CONVERTER-OUTPUT")
@@ -16145,7 +16145,7 @@
 		(pad "1" thru_hole circle
 			(at -34.8 -1 90)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 13 "/BOOST-CONVERTER-OUTPUT")
@@ -16192,7 +16192,7 @@
 		(pad "2" thru_hole circle
 			(at -34.8 7 90)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -16203,7 +16203,7 @@
 		(pad "2" thru_hole circle
 			(at -34.8 11 90)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "GND")
@@ -16214,7 +16214,7 @@
 		(pad "3" thru_hole circle
 			(at 29.2 11 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 29 "+3.3V")
@@ -16243,7 +16243,7 @@
 		(pad "4" thru_hole circle
 			(at 29.2 7 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 63 "/I2C_SCL")
@@ -16272,7 +16272,7 @@
 		(pad "5" thru_hole circle
 			(at 29.2 3 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 62 "/I2C_SDA")
@@ -16301,7 +16301,7 @@
 		(pad "6" thru_hole circle
 			(at 29.2 -1 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 12 "/BOOST_PGOOD")
@@ -16330,7 +16330,7 @@
 		(pad "7" thru_hole circle
 			(at 29.2 -5 270)
 			(size 2 2)
-			(drill 0.6)
+			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 37 "+48V")
@@ -18707,7 +18707,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -19311,7 +19311,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -19531,7 +19531,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -19678,7 +19678,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -20053,7 +20053,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22225,7 +22225,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23173,7 +23173,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23320,7 +23320,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23467,7 +23467,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23915,7 +23915,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C5128298"
+		(property "LCSC Part #" "C56282212"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
